@@ -1,0 +1,5 @@
+A very basic 52 playing cards implementation in Java.
+
+The main feature allows you to sort a list of cards according to any random specified order.
+
+Main class is "PlayingCardSorter"
